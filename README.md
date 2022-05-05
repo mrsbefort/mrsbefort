@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @mrsbefort
-- 👀 I’m interested in looking younger, tone, skinnier.
-- 🌱 I’m currently learning code. 
-- 💞️ I’m looking to collaborate on job placement.
-- 📫 How to reach me mrsbefort@gmail.com
+- 👋 Hi, 
+
+My name is Gabrielle Befort 
+
+I'm currently learning Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill! 
+
+
+You can reach me at mrsbefort@gmail.com, or check out my profile which has all my socials! https://mrsbefort.github.io/Looking-for-a-Developer/ 
 
 <!---
 mrsbefort/mrsbefort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
