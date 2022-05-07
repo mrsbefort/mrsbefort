@@ -16,8 +16,6 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
  
 <div>
 
-<br>
-
 In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. As well as, landing my first software engineeirng job! 🤩
 <br>
  <br>
