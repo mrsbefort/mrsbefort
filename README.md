@@ -35,6 +35,7 @@ or
 <br>
   <br>
 FUN FACTS ABOUT ME: 
+ 
 - [x] Had my 1st Twinkie at age 31 
 - [x] My favorite shape is a circle
 - [x] I have a cooking YouTube channel 
@@ -42,6 +43,7 @@ FUN FACTS ABOUT ME:
 - [x] I'm a Twin Mom to 1-year old toddlers
 - [x] I wear dresses everyday
 
+ <br>
 
 
 
