@@ -12,7 +12,7 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
  
  📝 Programming Lanuages 📚 
  
-| HTML| CSS | JavaScript|
+| HTML | CSS | JavaScript |
  
 <div>
 
