@@ -7,17 +7,17 @@
 
 <p align="center">
 Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at the University of North Carolina Chapel Hill. I'm learning a lot of exciting stuff about coding. </p>
- <br>
+
 <div align="center">
  
- <h3>📝 Programming Lanuages 📚 </h3>
+ 📝 Programming Lanuages 📚 
 | HTML| CSS | JavaScript|
  
 <div>
 
 <br>
 
-In the future, I'm looking forward to learning more about designing 🍭 sweet websites and making apps for my friends. 
+In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. As well as, landing my first software engineeirng job! 🤩
 <br>
  <br>
 
