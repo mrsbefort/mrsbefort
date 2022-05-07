@@ -10,7 +10,7 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
  <br>
 <div align="center">
  
-|:memo:|Programming Lanuages|:books: |
+ <h3>📝 Programming Lanuages 📚 </h3>
 |:---:|:----:|:---:|
 | HTML| CSS | JavaScript|
  
@@ -21,17 +21,15 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
 In the future, I'm looking forward to learning more about designing 🍭 sweet websites and making apps for my friends. 
 <br>
  <br>
- <br>
- 
- 
-You can reach me at 
+
+<strong>You can reach me at 
  
 💻  mrsbefort@gmail.com 
 
 or 
 
 🔗 [Check out my profile!](http://mrsbefort.github.io/Looking-for-a-Developer/)
-
+ </strong>
 
 <br>
   <br>
