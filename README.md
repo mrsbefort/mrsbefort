@@ -1,13 +1,13 @@
 <p align="center">
  <img src="./images/IMG_7855.JPG" width="700" height="500">
+</p>
 
 
-
-# Hi, My name is Gabrielle Befort!
+<p align="center"># Hi, My name is Gabrielle Befort!
 
 **Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill. I'm learning alot of exciting stuff about coding. **
-
- </p>
+</p>
+ 
 Programming Languages: 
 - [x] HTML
 - [x] CSS
