@@ -12,11 +12,11 @@ Programming Languages:
 
 In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. 
 
-You can reach me at :email:mrsbefort@gmail.com 
+You can reach me at 💻 mrsbefort@gmail.com 
 
 or 
 
-Check out my profile which has all my socials! :link: http://mrsbefort.github.io/Looking-for-a-Developer/ 
+Check out my profile which has all my socials! 🔗 http://mrsbefort.github.io/Looking-for-a-Developer/ 
 
 | |FUN FACTS!| |
 |:---:|:----:|:---:|
