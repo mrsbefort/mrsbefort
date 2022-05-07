@@ -1,4 +1,4 @@
-👋 Hi There
+<img src="./images/IMG_7853.JPG">
 
 My name is Gabrielle 'Jes' Befort!
 
