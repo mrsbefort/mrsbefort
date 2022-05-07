@@ -12,7 +12,11 @@ Programming Languages:
 
 In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. 
 
- FUN FACTS!
+You can reach me at :email:mrsbefort@gmail.com 
+
+or 
+
+Check out my profile which has all my socials! :link: http://mrsbefort.github.io/Looking-for-a-Developer/ 
 
 | |FUN FACTS!| |
 |:---:|:----:|:---:|
@@ -20,10 +24,6 @@ In the future, I'm looking forward to learning more about designing sweet websit
 | My Background is in Engineering | I'm a Twin Mom to 1year old toddlers|I wear dresses everyday|
 
 
-You can reach me at :email:mrsbefort@gmail.com 
 
-or 
-
-Check out my profile which has all my socials! :link:http://mrsbefort.github.io/Looking-for-a-Developer/ 
 
 
