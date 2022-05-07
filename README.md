@@ -22,7 +22,8 @@ In the future, I'm looking forward to learning more about designing sweet websit
 <br>
  <br>
 
-<h2>You can reach me at 
+<h2>You can reach me at:
+ 
  
 💻  mrsbefort@gmail.com 
 
@@ -33,7 +34,7 @@ or
 
 <br>
   <br>
-* FUN FACTS ABOUT ME: *
+FUN FACTS ABOUT ME: 
 - [x] Had my 1st Twinkie at age 31 
 - [x] My favorite shape is a circle
 - [x] I have a cooking YouTube channel 
