@@ -1,5 +1,6 @@
 <p align="center"><img src="./images/IMG_7853.JPG"width="500" height="600"></p>
 
+
 My name is Gabrielle 'Jes' Befort!
 
 Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill. I'm learning alot of exciting stuff about coding. 
