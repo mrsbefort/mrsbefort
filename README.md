@@ -14,7 +14,7 @@ In the future, I'm looking forward to learning more about designing sweet websit
 
  FUN FACTS!
 
-|FUN FACTS!|
+| |FUN FACTS!| |
 |:---:|:----:|:---:|
 | Had my 1st Twinkie at age 31|My favorite shape is a circle|I have a cooking YouTube channel|
 |My Background is in Engineering I'm a Twin Mom to 1year old toddlers|I wear dresses everyday|
