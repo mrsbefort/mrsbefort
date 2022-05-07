@@ -11,7 +11,6 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
 <div align="center">
  
  <h3>📝 Programming Lanuages 📚 </h3>
-|:---:|:----:|:---:|
 | HTML| CSS | JavaScript|
  
 <div>
@@ -22,14 +21,14 @@ In the future, I'm looking forward to learning more about designing 🍭 sweet w
 <br>
  <br>
 
-<strong>You can reach me at 
+<h2>You can reach me at 
  
 💻  mrsbefort@gmail.com 
 
 or 
 
 🔗 [Check out my profile!](http://mrsbefort.github.io/Looking-for-a-Developer/)
- </strong>
+ </h2>
 
 <br>
   <br>
