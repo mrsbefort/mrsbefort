@@ -12,15 +12,17 @@ Programming Languages:
 
 In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. 
 
-:cool: FUN FACTS!
+ FUN FACTS!
 
-| Syntax      | Description | Test Text     |
-| :---:       |    :----:   |     :---:     |
-| Had my 1st Twinkie at age 31     | My favorite shape is a circle       | Here's this   |
-| Paragraph   | Text        | And more      |
+| :cool:                          | FUN FACTS!                           | :libra:                   |
+| :---:                           |    :----:                            |     :---:                 |
+| Had my 1st Twinkie at age 31    | My favorite shape is a circle | I have a cooking YouTube channel |
+| My Background is in Engineering | I'm a Twin Mom to 1year old toddlers | I wear dresses everyday   |
 
-You can reach me at mrsbefort@gmail.com 
+You can reach me at :email:mrsbefort@gmail.com 
+
 or 
+
 Check out my profile which has all my socials! :link:http://mrsbefort.github.io/Looking-for-a-Developer/ 
 
 
