@@ -29,7 +29,7 @@ or
 🔗 [Check out my profile!](http://mrsbefort.github.io/Looking-for-a-Developer/)
 
 
- <div align="jusitfied">
+<br>
   
 FUN FACTS ABOUT ME:
 - [x] Had my 1st Twinkie at age 31 
@@ -39,6 +39,6 @@ FUN FACTS ABOUT ME:
 - [x] I'm a Twin Mom to 1-year old toddlers
 - [x] I wear dresses everyday
 
-  </div>
+
 
 
