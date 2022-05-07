@@ -10,12 +10,8 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
 
 <div align="center">
  
-<span style="text-decoration:underline">
- 
  📝  Programming Lanuages 📚 
- 
- </span> 
- 
+
 | HTML | CSS | JavaScript |
  
 <div>
