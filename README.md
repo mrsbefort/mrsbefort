@@ -1,11 +1,11 @@
 <p align="center">
- <img src="./images/IMG_7855.JPG" width="800" height="600">
+ <img src="./images/IMG_7855.JPG" width="700" height="500">
 </p>
 
 
-My name is Gabrielle 'Jes' Befort!
+# H1 Hi, My name is Gabrielle 'Jes' Befort!
 
-Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill. I'm learning alot of exciting stuff about coding. 
+**Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill. I'm learning alot of exciting stuff about coding. **
 
 Programming Languages: 
 - [x] HTML
@@ -19,7 +19,7 @@ You can reach me at 💻 mrsbefort@gmail.com
 
 or 
 
-Check out my profile which has all my socials! 🔗 http://mrsbefort.github.io/Looking-for-a-Developer/ 
+🔗 [Check out my profile!] (http://mrsbefort.github.io/Looking-for-a-Developer/)
 
 | |FUN FACTS!| |
 |:---:|:----:|:---:|
