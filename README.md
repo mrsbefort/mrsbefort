@@ -24,7 +24,7 @@ You can reach me at 💻 mrsbefort@gmail.com
 
 or 
 
-🔗 [Check out my profile!] (http://mrsbefort.github.io/Looking-for-a-Developer/)
+🔗 [Check out my profile!](http://mrsbefort.github.io/Looking-for-a-Developer/)
 
 
 FUN FACTS ABOUT ME:
@@ -32,7 +32,7 @@ FUN FACTS ABOUT ME:
 - [x] My favorite shape is a circle
 - [x] I have a cooking YouTube channel 
 - [x] My Background is in Engineering
-- [x] I'm a Twin Mom to 1year old toddlers
+- [x] I'm a Twin Mom to 1-year old toddlers
 - [x] I wear dresses everyday
 
 
