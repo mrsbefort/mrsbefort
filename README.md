@@ -6,11 +6,11 @@
 <h1><p align="center"> Hi, My name is Gabrielle Befort!</p></h1>
 
 <p align="center">
-Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at University of North Carolina Chapel Hill. I'm learning alot of exciting stuff about coding. </p>
+Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at the University of North Carolina Chapel Hill. I'm learning a lot of exciting stuff about coding. </p>
  <br>
 <div align="center">
  
-| |Programming Lanuages| |
+|:memo:|Programming Lanuages|:books: |
 |:---:|:----:|:---:|
 | HTML| CSS | JavaScript|
  
