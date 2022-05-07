@@ -18,15 +18,19 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
 
 
 
-In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. 
+In the future, I'm looking forward to learning more about designing 🍭 sweet websites and making apps for my friends. 
 
-You can reach me at 💻 mrsbefort@gmail.com 
+You can reach me at 
+ 
+💻  mrsbefort@gmail.com 
 
 or 
 
 🔗 [Check out my profile!](http://mrsbefort.github.io/Looking-for-a-Developer/)
 
 
+ <div align="jusitfied">
+  
 FUN FACTS ABOUT ME:
 - [x] Had my 1st Twinkie at age 31 
 - [x] My favorite shape is a circle
@@ -35,5 +39,6 @@ FUN FACTS ABOUT ME:
 - [x] I'm a Twin Mom to 1-year old toddlers
 - [x] I wear dresses everyday
 
+  </div>
 
 
