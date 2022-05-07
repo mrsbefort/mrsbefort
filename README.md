@@ -11,6 +11,7 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
 <div align="center">
  
  📝 Programming Lanuages 📚 
+ 
 | HTML| CSS | JavaScript|
  
 <div>
