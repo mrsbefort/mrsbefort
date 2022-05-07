@@ -1,4 +1,4 @@
-<img src="./images/IMG_7853.JPG" width="700" height="800">
+<img src="./images/IMG_7853.JPG" width="500" height="600">
 
 My name is Gabrielle 'Jes' Befort!
 
