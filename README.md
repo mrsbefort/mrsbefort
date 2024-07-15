@@ -6,7 +6,7 @@
 <h1><p align="center"> Hi, My name is Gabrielle Befort!</p></h1>
 
 <p align="center">
-Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm currently enrolled in a Full Stack Web Development Bootcamp at the University of North Carolina Chapel Hill. I'm learning a lot of exciting stuff about coding. </p>
+Thank you for checking out my GitHub! I'm glad you're here. A little about me, I'm an Engineering graduate of North Carolina A&T State Univeristy. In my spare time I'm learning a lot of exciting stuff about coding. </p>
 
 <div align="center">
  
@@ -16,7 +16,7 @@ Thank you for checking out my GitHub! I'm glad you're here. A little about me, I
  
 <div>
 
-In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. As well as, landing my first software engineeirng job! 🤩
+In the future, I'm looking forward to learning more about designing sweet websites and making apps for my friends. As well as, landing my first software engineeirng job in the future! 🤩
 <br>
  <br>
 
@@ -38,7 +38,7 @@ FUN FACTS ABOUT ME:
 - [x] My favorite shape is a circle
 - [x] I have a cooking [YouTube](https://www.youtube.com/channel/UCcIOfGLVae1qwZrBlfOASKg) channel 
 - [x] My Background is in Engineering
-- [x] I'm a Twin Mom to 1-year old toddlers
+- [x] I'm a Twin Mom to 3-year old toddlers
 - [x] I wear dresses everyday
 
  <br>
